@@ -1,0 +1,7 @@
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
